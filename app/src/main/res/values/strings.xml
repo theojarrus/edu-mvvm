@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="load">Load</string>
+    <string name="error">Error</string>
+    <string name="load_notes">Load Notes</string>
+    <string name="load_user">Load User</string>
+</resources>
